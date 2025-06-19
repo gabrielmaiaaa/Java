@@ -1,7 +1,6 @@
 package academy.devdojo.maratonajava.javacore.introducaoclasses.test;
 
 import academy.devdojo.maratonajava.javacore.introducaoclasses.dominio.Carro;
-import com.sun.org.apache.xml.internal.utils.SystemIDResolver;
 
 import java.util.Scanner;
 
